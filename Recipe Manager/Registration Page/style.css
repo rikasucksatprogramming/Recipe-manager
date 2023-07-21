@@ -1,0 +1,93 @@
+body {
+    background: #F56A63;
+    width: 720px;
+    height: 1024px;
+}
+
+.effect {
+    width: 720px;
+    height: 1024px;
+    flex-shrink: 0;
+    filter: blur(150px);
+}
+
+#sign-up {
+    color: #FFBC48;
+    text-align: center;
+    font-family: Figma Hand;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    bottom: 1000px;
+    left: 500px;
+}
+
+#name {
+    position:relative;
+    bottom: 900px;
+    left: 610px;
+    width: 473px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+}
+
+#email {
+    position:relative;
+    bottom: 800px;
+    left: 610px;
+    width: 473px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+}
+
+#password {
+    position:relative;
+    bottom: 700px;
+    left: 610px;
+    width: 473px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+}
+
+#verify {
+    position:relative;
+    bottom: 600px;
+    left: 610px;
+    width: 473px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+}
+
+#submit {
+    width: 350px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+    bottom: 500px;
+    left: 675px;
+    position: relative;
+    
+}
+#main-page {
+    opacity: 10;
+    color: #FFBC48;
+    text-align: center;
+    font-family: Figma Hand;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    bottom: 1000px;
+}

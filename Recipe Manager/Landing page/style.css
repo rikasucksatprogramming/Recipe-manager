@@ -1,0 +1,96 @@
+#heading {
+display: flex;
+width: 121px;
+height: 63px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFBC48;
+font-family: Figma Hand;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+body {
+    background: #F56A63;
+    width: 798px;
+    height: 1024px;
+}
+
+#cto {
+    color: #000;
+text-align: center;
+font-family: Figma Hand;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+bottom: 500px;
+}
+
+.name {
+    color: #FFBC48;
+font-family: Figma Hand;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+width: 121px;
+height: 63px;
+flex-direction: column;
+flex-shrink: 0;
+position: relative;
+}
+
+.sign-up {
+    color: #FFBC48;
+font-family: Figma Hand;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+bottom: 84px;
+left: 700px;
+}
+
+.effects {
+    position: relative;
+    bottom: 400px;
+    width: 400px;
+height: 1648px;
+flex-shrink: 0;
+filter: blur(150px);
+}
+
+#start {
+border-radius: 100px;
+background: #FFBC48;
+width: 142px;
+height: 41px;
+flex-shrink: 0;
+
+}
+
+
+
+    #sign-up {
+        border-radius: 100px;
+        background: #FFBC48;
+        width: 142px;
+        height: 41px;
+        flex-shrink: 0;
+        
+        }
+
+        #log-in {
+            border-radius: 100px;
+            background: #FFBC48;
+            width: 142px;
+            height: 41px;
+            flex-shrink: 0;
+            
+            }
+
